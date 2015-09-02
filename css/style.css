@@ -1,0 +1,21 @@
+.key {
+  color: #76923C;
+}
+
+.solid {
+  background-color: #EAEAEA;
+}
+
+
+hr {
+    border: none;
+    height: 10px;
+    /* Set the hr color */
+    color: #EAEAEA; /* old IE */
+    background-color: #EAEAEA; /* Modern Browsers */
+}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
